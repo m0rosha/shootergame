@@ -8,7 +8,7 @@ import time as timer
 lol = 0 
 score = 0 
 window = display.set_mode((700, 500))
-display.set_caption('WEDNESDAY GAME')
+display.set_caption('TRYHARD GAME hell nah')
 da = 3
 mixer.init()
 mixer.music.load('space.ogg')
